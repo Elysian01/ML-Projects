@@ -5,11 +5,16 @@
 * [Disease Prediction](./Healthcare_Projects/Disease_Prediction)
 * [Heart Disease Prediction](./Healthcare_Projects\Heart_Disease_Prediction)
 
+## Kaggle Solutions
+
+* [Bengaluru House Price Prediction](./Kaggle_Solutions/Bengaluru-House-Price-Prediction.ipynb)
+* [House Price Advance Regression Techniques Problem](./Kaggle_Solutions/House-Prices-Advanced-Regression-Techniques.ipynb)
+
 ## Analysis Projects
 
 * [Performance Analysis of Football Teams](./Analysis_Projects/Performance_Analysis_Of_Football_Teams.ipynb)
 
-## Recommendation System
+## Recommendation Systems
 
 * [Grocery Store Product Recommendation using Apriori Algorithm](./Recommendation_Systems/Grocery_Basket_Analysis_and_Recommendation-1.ipynb)
 
