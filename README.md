@@ -7,7 +7,7 @@
 
 ## Analysis Projects
 
-* [Sports Analysis](./Analysis_Projects/Sports_Analysis.ipynb)
+* [Performance Analysis of Football Teams](./Analysis_Projects/Performance_Analysis_Of_Football_Teams.ipynb)
 
 ## Recommendation System
 
