@@ -9,6 +9,7 @@
 
 * [Bengaluru House Price Prediction](./Kaggle_Solutions/Bengaluru-House-Price-Prediction.ipynb)
 * [House Price Advance Regression Techniques Problem](./Kaggle_Solutions/House-Prices-Advanced-Regression-Techniques.ipynb)
+* [Brest Cancer Prediction](./Kaggle_Solutions/Breast-Cancer-Prediction.ipynb)
 
 ## Analysis Projects
 
