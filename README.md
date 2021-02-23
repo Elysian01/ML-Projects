@@ -14,6 +14,10 @@
 
 * [Performance Analysis of Football Teams](./Analysis_Projects/Performance_Analysis_Of_Football_Teams.ipynb)
 
+## Time Series Projects
+
+* [Airline Time Series Forecasting Using FbProphet](./Time_Series/Airline_Time_Series_Forecasting_Using_FbProphet.ipynb)
+
 ## Recommendation Systems
 
 * [Grocery Store Product Recommendation using Apriori Algorithm](./Recommendation_Systems/Grocery_Basket_Analysis_and_Recommendation-1.ipynb)
