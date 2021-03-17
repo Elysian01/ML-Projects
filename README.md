@@ -11,9 +11,16 @@
 * [House Price Advance Regression Techniques Problem](./Kaggle_Solutions/House-Prices-Advanced-Regression-Techniques.ipynb)
 * [Brest Cancer Prediction](./Kaggle_Solutions/Breast-Cancer-Prediction.ipynb)
 
+## Exploratory Data Analysis
+
+* [Global Population and Covid-19 EDA](./Exploratory_Data_Analysis/Global_population_and_covid_analysis.ipynb.ipynb)
+* [Sports (Indian Premier League) EDA](./Exploratory_Data_Analysis/IPL_Exploratory_Data_Analysis.ipynb.ipynb)
+
+
 ## Analysis Projects
 
 * [Performance Analysis of Football Teams](./Analysis_Projects/Performance_Analysis_Of_Football_Teams.ipynb)
+
 
 ## Time Series Projects
 
