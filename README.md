@@ -13,8 +13,8 @@
 
 ## Exploratory Data Analysis
 
-* [Global Population and Covid-19 EDA](./Exploratory_Data_Analysis/Global_population_and_covid_analysis.ipynb.ipynb)
-* [Sports (Indian Premier League) EDA](./Exploratory_Data_Analysis/IPL_Exploratory_Data_Analysis.ipynb.ipynb)
+* [Global Population and Covid-19 EDA](./Exploratory_Data_Analysis/Global_population_and_covid_analysis.ipynb)
+* [Sports (Indian Premier League) EDA](./Exploratory_Data_Analysis/IPL_Exploratory_Data_Analysis.ipynb)
 
 
 ## Analysis Projects
